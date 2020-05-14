@@ -1,0 +1,77 @@
+img {
+  width: 50px;
+}
+
+
+
+
+
+#face {
+  width: 400px;
+
+}
+#eyes1 {
+
+  height: 50px;
+  width: 100px;
+  margin-bottom: 278px;
+  margin-left: -238px;
+}
+
+
+#eyes2 {
+
+  height: 50px;
+  width: 100px;
+  margin-top: 278px;
+  margin-left: -238px;
+}
+
+
+#mouth1 {
+
+  height: 50px;
+  width: 100px;
+  margin-bottom: 220px;
+  margin-left: -111px;
+}
+
+#nose2{
+
+  height: 50px;
+  width: 100px;
+  margin-bottom: 250px;
+  margin-left: -100px;
+}
+
+#ears1{
+
+  height: 132px;
+  width: 388px;
+  margin-bottom: 256px;
+  margin-left: -263px;
+}
+
+
+#hair1{
+
+  height: 132px;
+  width: 310px;
+  margin-bottom: 300px;
+  margin-left: -354px;
+}
+
+#hat{
+
+  height: 132px;
+  width: 277px;
+  margin-bottom: 361px;
+  margin-left: -285px;
+}
+
+#logo{
+
+  width: 65px;
+  margin-bottom: 253px;
+  margin-left: -258px;
+}
