@@ -1,0 +1,58 @@
+h1{
+	text-align: center;
+}
+
+#navbar{
+	background-color:#f0f1f1;
+	padding: 20px 40px;
+	text-align: center;
+		margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+a{
+	padding: 5px;
+	color: black;
+}
+
+#ptag {
+	background-color:#f0f1f1;
+	padding: 20px 40px;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+
+.span1, .span2, .span3 {
+	text-align: center;
+     float: left;
+     width: 30%;
+     padding: 20px;
+     background: #eee;
+     box-sizing: border-box;
+     margin-right:6px;
+
+   
+}
+
+.span3{
+     margin-right: 0;
+}
+
+
+
+.footer{
+
+	background-color:#f0f1f1;
+	padding: 20px 40px;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+}
+
+.hallo{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
